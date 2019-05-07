@@ -9,3 +9,11 @@ div.hero-body{
 #content{
     padding: 30px;
 }
+
+h1.subtitle.is-4.section {
+  padding: 0;
+  margin-bottom: 0px;
+}
+div.box.is-left {
+  margin-top: 1.5rem;
+}

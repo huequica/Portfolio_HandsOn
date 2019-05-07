@@ -3,6 +3,7 @@
 ## 使用するサイト
 + [Bulma](https://bulma.io)
 + [原色大辞典](https://www.colordic.org/)
++ [Font Awesome](https://fontawesome.com/)
 
 ## カラムのドキュメント
 https://bulma.io/documentation/columns/basics/

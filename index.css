@@ -10,6 +10,10 @@ div.hero-body{
     padding: 30px;
 }
 
+hr {
+  background-color: #E0C1FF;
+}
+
 h1.subtitle.is-4.section {
   padding: 0;
   margin-bottom: 0px;

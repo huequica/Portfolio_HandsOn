@@ -13,3 +13,13 @@ https://bulma.io/documentation/elements/title/
 
 ## ボタンクラスのドキュメント
 https://bulma.io/documentation/elements/button/
+
+# ScreenShots
++ iPad
+![](image/iPad.PNG)
+
++ iPhone
+![](image/iPhone.PNG)
+
++ PC(Mac)
+![](image/PC.png)

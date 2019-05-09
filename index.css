@@ -10,6 +10,15 @@ div.hero-body{
     padding: 30px;
 }
 
+div#QRCode > * {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure.image {
+  width: 240px;
+}
+
 hr {
   background-color: #E0C1FF;
 }
